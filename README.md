@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Public Invention documentation.
 - 📫 How to reach me
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: In my free time, I enjoy writing and reading.
+- ⚡ Fun fact: In my free time, I enjoy writing and reading fiction.
 
 <!---
 MairinOGrady/MairinOGrady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
