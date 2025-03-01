@@ -6,7 +6,7 @@ I am currently a @PubInv volunteer and edit GitHub readme pages for their open-s
 ## Publication Support
 I am excited to announce that a paper I proofread and formatted for @RobertLRead was recently published! The GPAD is a great device to be featured on HardwareX. Check it out: [https://www.sciencedirect.com/science/article/pii/S2468067224000841](https://www.sciencedirect.com/science/article/pii/S2468067224000841).
 
-Another article I edited and proofread extensively was just published! Check it out: [https://www.hardware-x.com/article/S2468-0672(24)00109-3/fulltext](https://www.hardware-x.com/article/S2468-0672(24)00109-3/fulltext).
+Another article I edited and proofread was just published! Check out the PolyVentilator: [https://www.hardware-x.com/article/S2468-0672(24)00109-3/fulltext](https://www.hardware-x.com/article/S2468-0672(24)00109-3/fulltext).
 ## Links to my other platforms
 [My LinkedIn](www.linkedin.com/in/mairin-o-grady-b64b2a290) 
 
