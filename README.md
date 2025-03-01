@@ -5,6 +5,8 @@ I use GitHub to collaborate on projects with other volunteers and technical writ
 I am currently a @PubInv volunteer and edit GitHub readme pages for their open-source engineering projects, such as the [VentMon](https://github.com/PubInv/ventmon-ventilator-inline-test-monitor) and the [GPAD](https://github.com/PubInv/general-purpose-alarm-device). Recently, I have also created an [OSMS file repository](https://github.com/PubInv/OSMS-OKHs) in TOML as the beginning step of an open-source project database.
 ## Publication Support
 I am excited to announce that a paper I proofread and formatted for @RobertLRead was recently published! The GPAD is a great device to be featured on HardwareX. Check it out: [https://www.sciencedirect.com/science/article/pii/S2468067224000841](https://www.sciencedirect.com/science/article/pii/S2468067224000841).
+
+Another article I edited and proofread extensively was just published! Check it out: [https://www.hardware-x.com/article/S2468-0672(24)00109-3/fulltext](https://www.hardware-x.com/article/S2468-0672(24)00109-3/fulltext).
 ## Links to my other platforms
 [My LinkedIn](www.linkedin.com/in/mairin-o-grady-b64b2a290) 
 
