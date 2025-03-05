@@ -7,6 +7,8 @@ I am currently a @PubInv volunteer and edit GitHub readme pages for their open-s
 I am excited to announce that a paper I proofread and formatted for @RobertLRead was recently published! The GPAD is a great device to be featured on HardwareX. Check it out: [https://www.sciencedirect.com/science/article/pii/S2468067224000841](https://www.sciencedirect.com/science/article/pii/S2468067224000841).
 
 Another article I edited and proofread was just published! Check out the PolyVentilator: [https://www.hardware-x.com/article/S2468-0672(24)00109-3/fulltext](https://www.hardware-x.com/article/S2468-0672(24)00109-3/fulltext).
+## Articles
+I wrote an article for The Cor Chronicle about nuclear fusion [https://thecorchronicle.com/2024/03/19/nothings-quiet-on-the-fusion-front/](https://thecorchronicle.com/2024/03/19/nothings-quiet-on-the-fusion-front/) that has over 600 views! I really enjoyed researching the topic while writing, and I'm glad I could contribute to the website.
 ## Links to my other platforms
 [My LinkedIn](www.linkedin.com/in/mairin-o-grady-b64b2a290) 
 
