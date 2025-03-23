@@ -9,6 +9,9 @@ I am excited to announce that a paper I proofread and formatted for @RobertLRead
 Another article I edited and proofread was just published! Check out the PolyVentilator: [https://www.hardware-x.com/article/S2468-0672(24)00109-3/fulltext](https://www.hardware-x.com/article/S2468-0672(24)00109-3/fulltext).
 ## Articles
 I wrote an article for The Cor Chronicle about nuclear fusion [https://thecorchronicle.com/2024/03/19/nothings-quiet-on-the-fusion-front/](https://thecorchronicle.com/2024/03/19/nothings-quiet-on-the-fusion-front/) that has over 600 views! I really enjoyed researching the topic while writing, and I'm glad I could contribute to the website.
+
+Recently, an article I wrote about the Krake project was published on the Public Invention website! Check it out here: [https://www.pubinv.org/2025/03/17/mentorship-and-teamwork-the-story-of-the-krake/](https://www.pubinv.org/2025/03/17/mentorship-and-teamwork-the-story-of-the-krake/)
+
 ## Links to my other platforms
 [My LinkedIn](www.linkedin.com/in/mairin-o-grady-b64b2a290) 
 
