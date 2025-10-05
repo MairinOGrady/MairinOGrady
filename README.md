@@ -1,6 +1,6 @@
 # Hi, I’m @MairinOGrady
 ## About Me
-I use GitHub to collaborate on projects with other volunteers and technical writers. I am currently a full-time college student studying English Literature and Economics. I am pursuing a career where my technical communication and analytical skills will be in support of business, and I aim to provide innovation and technological/organizational problem-solving to each project. In my free time, I enjoy writing stories, watching movies, and cooking.
+I use GitHub to collaborate on projects with other volunteers and technical writers. I am a recent graduate with a degree in English Literature and Economics. I am pursuing a career where my technical communication and analytical skills will be in support of business, and I aim to provide innovation and technological/organizational problem-solving to each project. In my free time, I enjoy writing stories, watching movies, and cooking.
 ## Projects
 I am currently a @PubInv volunteer and edit GitHub readme pages for their open-source engineering projects, such as the [VentMon](https://github.com/PubInv/ventmon-ventilator-inline-test-monitor) and the [GPAD](https://github.com/PubInv/general-purpose-alarm-device). Recently, I have also created an [OSMS file repository](https://github.com/PubInv/OSMS-OKHs) in TOML as the beginning step of an open-source project database.
 ## Publication Support
